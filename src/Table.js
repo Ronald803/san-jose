@@ -530,217 +530,363 @@ function Table() {
           zona: "general",
           url: "https://drive.google.com/file/d/1puXWcatP7QjMHtx3T7ZHnDFvDzzk9Ay1/view?usp=drive_link"
         },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
-        // {
-        //   manzano: ,
-        //   lote: ,
-        //   zona: "general",
-        //   url: ""
-        // },
+        {
+          manzano: 24,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1Jh32KfpO5RvjAPMkI_gYI9hk81DC1egj/view?usp=drive_link"
+        },
+        {
+          manzano: 24,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1fMY7hz9akoVqPGPQjxf3EGbiNc5tHXYG/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1f-sAxMzch_iwWa8xv-tfxOZHggcV7Idm/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1ePSDC3usT7x2MaPgZgyEEQd8GB-SOSN9/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1em7AmoxR60R7ln3IBD3_mu2485pn1w-L/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1YG1TLZX5rQ5pzrNYCF9zve83hw2X2Gir/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 5,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1VJVJXDg7BoMBldgYU2UZ2uczipbmigsq/view?usp=drive_link"
+        },
+        {
+          manzano: 25,
+          lote: 6,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1EkfixGXtD-J3dOTBSCuOiFvcz3a7UmQD/view?usp=drive_link"
+        },
+        {
+          manzano: 27,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1wHuKOAuA2zvRtIdtGuRZ8PTv50V9QKiv/view?usp=drive_link"
+        },
+        {
+          manzano: 27,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1Xj2R4uRq7Prdz-aDgBc7kiscBn_5A-C9/view?usp=drive_link"
+        },
+        {
+          manzano: 27,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1RQcOWtGZGU0QgQ-VnSqhknnMsdJiGyXM/view?usp=drive_link"
+        },
+        {
+          manzano: 27,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/19FgGg45d20cvj0J4rdTpRLcwX5BAJxio/view?usp=drive_link"
+        },
+        {
+          manzano: 27,
+          lote: 5,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1bsQQibKYgxcbZlwUGfUCiUTAvRCBf4Eb/view?usp=drive_link"
+        },
+        {
+          manzano: 28,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1aGhuMCEY9u78i2e0z6Slu3jcUd39PAiK/view?usp=drive_link"
+        },
+        {
+          manzano: 28,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1xf64kF114ZTrG_QBsabrELgfG39XwURh/view?usp=drive_link"
+        },
+        {
+          manzano: 28,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1WFwwVSOhYCdnjEgD7c6-Rk4t6NqFv9Fj/view?usp=drive_link"
+        },
+        {
+          manzano: 29,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1A0FZxb7J43OB_wxnICIvh8fiqyKpG7JM/view?usp=drive_link"
+        },
+        {
+          manzano: 29,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1ikTx5cYLI2TRRYb_MBHKOwvLBLaRYH8D/view?usp=drive_link"
+        },
+        {
+          manzano: 30,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1d3y39tWYPxUCO3aCuBQ_enZ4vHwSsinG/view?usp=drive_link"
+        },
+        {
+          manzano: 30,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1Z9HhPVYKKiMlGIXTN3fHTfaRgtS-XUN1/view?usp=drive_link"
+        },
+        {
+          manzano: 30,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/15vwYzqoJ30YVzIMXhSFQCqPMkbmuQJ2Z/view?usp=drive_link"
+        },
+        {
+          manzano: 30,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1FGHW4xB5LX7Q7jxslRyiEVijbJa-TKye/view?usp=drive_link"
+        },
+        {
+          manzano: 33,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1kJYBOvIegyIFVxQ2BTSwOY1sjzWeVVvE/view?usp=drive_link"
+        },
+        {
+          manzano: 33,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/189wMoBB7Kdd3v4LZuRJg866s7AfEfCDY/view?usp=drive_link"
+        },
+        {
+          manzano: 33,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/16sdZnKXGCQQMUGNpUeW-9bLCuX9wV2j_/view?usp=drive_link"
+        },
+        {
+          manzano: 33,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1B1jFkcO5WLRQcSIpL3GinLFtgu4X-xkU/view?usp=drive_link"
+        },
+        {
+          manzano: 34,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1Pi3ymqlX-Sk_gSW_50dJLR0_f21-A1bo/view?usp=drive_link"
+        },
+        {
+          manzano: 34,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/18goymjva4R-51nbdAq9GfATkWRknQAr7/view?usp=drive_link"
+        },
+        {
+          manzano: 34,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1DQ2WeBXyx1C-jrn-zQMEPh_yDEpexGqC/view?usp=drive_link"
+        },
+        {
+          manzano: 34,
+          lote: 5,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1ogGbTuIjsJNdP66p9rS1jmRm4xaI4Dsl/view?usp=drive_link"
+        },
+        {
+          manzano: 35,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/13a8qNkk7M-r_xVRRSPSjiIQ3pbuWAvBb/view?usp=drive_link"
+        },
+        {
+          manzano: 35,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1RTFtMcvugWeXykNFUceUPCwWiQtiUHq2/view?usp=drive_link"
+        },
+        {
+          manzano: 35,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/116ZAzqpVdBRxnxJtxoWA5leKKtPfJjVw/view?usp=drive_link"
+        },
+        {
+          manzano: 35,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1rj_MeVhGi-l95JH1FGgax93E9Bcbh82k/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 1,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1-we_X-ijAedJw0F9p5erlbOTh0yK-98s/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 2,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1_v1sD7mZC0AJqTAMFoxWmWXjWFa22gR3/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 3,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1K3ipWJpKjTTj8oxCuarN8lFNDqpcu1oR/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 4,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1BogmiqyQTDvM2IU2yYpAyifS-6tVuxhP/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 5,
+          zona: "general",
+          url: "https://drive.google.com/file/d/1wAyFMjxH38kMQ4ayb7nm3rYqY3CdHQUd/view?usp=drive_link"
+        },
+        {
+          manzano: 36,
+          lote: 6,
+          zona: "general",
+          url: "https://drive.google.com/file/d/17o-30Q0y7Jd6ozgRjl11foOCquL09zA1/view?usp=drive_link"
+        },
+        {
+          manzano: "A",
+          lote: 1,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1RTO3OoJDK0iBuuoIvTb56wcNPC-wPyZS/view?usp=drive_link"
+        },
+        {
+          manzano: "A",
+          lote: 2,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1Q2CaKaXZrRuQ-tTV6dgrg4ly6UvlVWiz/view?usp=drive_link"
+        },
+        {
+          manzano: "A",
+          lote: 3,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1bV5kShVU0McATIOI18ZeYzhnL-7Sx5CS/view?usp=drive_link"
+        },
+        {
+          manzano: "A",
+          lote: 4,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1FN3v6qVuy6o16NgrBWPxh8vC3KVkEeiu/view?usp=drive_link"
+        },
+        {
+          manzano: "B",
+          lote: 2,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1cwSqcKsIrpWsLPcgCbr0Igh8zMPKC-wD/view?usp=drive_link"
+        },
+        {
+          manzano: "B",
+          lote: 3,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1e8lGd2I43VP0qKPM0LqMXeCtr6cx0RUo/view?usp=drive_link"
+        },
+        {
+          manzano: "Complemento",
+          lote: 0,
+          zona: "Norte",
+          url: "https://drive.google.com/file/d/1OuziAirQoOaydXYk5gN3RD1z_5s9-3GT/view?usp=drive_link"
+        },
+        {
+          manzano: 6,
+          lote: 1,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1FNAwBjb0UYge51urrp7VHCHC3cmQ-KFz/view?usp=drive_link"
+        },
+        {
+          manzano: 6,
+          lote: 2,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1eGYfStCsnolgrTFF1_tV0ccl-AHbtOoF/view?usp=drive_link"
+        },
+        {
+          manzano: 6,
+          lote: 3,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/12MBa9ujErLDlJ-REj5YCk6Y50KaKbaSi/view?usp=drive_link"
+        },
+        {
+          manzano: 6,
+          lote: 4,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1Rs4vj4kv-rGWmBrlr8i8OFbk94rYObRG/view?usp=drive_link"
+        },
+        {
+          manzano: 7,
+          lote: 1,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1wZTAJxs5RQLsu6ROtQwoMSwjML6-mDYu/view?usp=drive_link"
+        },
+        {
+          manzano: 7,
+          lote: 2,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1YanFgj-O2_YiVgO-McRq4HwiUda9kkXZ/view?usp=drive_link"
+        },
+        {
+          manzano: 7,
+          lote: 3,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1VuTQ_VoC-BhNDNDkegb9Al66J6tkLzs2/view?usp=drive_link"
+        },
+        {
+          manzano: 7,
+          lote: 4,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1r9C6AdxrYZ-mSEY3GvYHLNiU8gEk-qsB/view?usp=drive_link"
+        },
+        {
+          manzano: 8,
+          lote: 1,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1cfWTiXblAn5xKYCrRi-LHGidm-nkaC_j/view?usp=drive_link"
+        },
+        {
+          manzano: 8,
+          lote: 2,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/112xyE41_CA23ESMyJF7_yrada5NGuhJV/view?usp=drive_link"
+        },
+        {
+          manzano: 8,
+          lote: 3,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1JZOaFVBc9xODEg_lLKSYl903NkjR40U7/view?usp=drive_link"
+        },
+        {
+          manzano: 8,
+          lote: 4,
+          zona: "Sur",
+          url: "https://drive.google.com/file/d/1Cs3WzYmnvV6a40gV-YlgAO3Nv3KTJoHs/view?usp=drive_link"
+        }
     ]
+    const urlGeneral1 = "https://drive.google.com/file/d/1nTB80tAk23yUwgwAcT909K9q8OgN7k9C/view?usp=drive_link"
+    const urlGeneral2 = "https://drive.google.com/file/d/1hMZ2aYgC-9FAVHMt0S2vOK7RdGGkapZr/view?usp=drive_link"
   return (
     <div>Table</div>
   )
