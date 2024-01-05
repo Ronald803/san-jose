@@ -4,9 +4,13 @@ import Table from './Table';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <Navbar/>
-      <Table/>
+      <div className='bg-primary'>
+        <div className='bg-dark bg-opacity-75'>
+          <Table/>
+        </div>
+      </div>
     </div>
   );
 }

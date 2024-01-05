@@ -891,16 +891,35 @@ function Table() {
     let manzano=''
     let lote=''
     const handleChange = (e)=>{
-      e.target.name=="manzano"?manzano=e.target.value:lote=e.target.value
+      e.target.name=="manzano"?manzano=e.target.value:lote=e.target.value      
     }
     const handleSubmit = async (e)=>{
       e.preventDefault();
       console.log({manzano},{lote});
+      const auxArray = [];
+      if(manzano!='' && lote==''){
+        planes.map(p=>{
+          if(p.manzano==manzano){auxArray.push(p)}
+        })
+      } else if(manzano=='' && lote!=''){
+        planes.map(p=>{
+          if(p.lote==lote){auxArray.push(p)}
+        })
+      } else if(manzano!=''&&lote!=''){
+        planes.map(p=>{
+          if(p.lote==lote && p.manzano==manzano){auxArray.push(p)}
+        })
+      } 
+      setauxPlanes([...auxArray])
+    }
+    const showEverything = (e)=>{
+      e.preventDefault();
+      setauxPlanes([...planes])
     }
     return (
-  <div className='mx-auto bg-dark' style={{"maxWidth":"800px"}}>
-    <div className=''>
-    <form className='bg-transparent text-white card-body' onSubmit={handleSubmit}>
+  <div className='mx-auto bg-dark bg-opacity-50' style={{"maxWidth":"700px"}}>
+    <div className='px-4 py-2'>
+    <form className='bg-transparent text-white card-body'>
       <div className='bg-transparent text-white row'>
           <label className='bg-transparent text-white form-label col-4' htmlFor='manzano'>Manzano</label>
           <div className='col-8'>
@@ -925,41 +944,47 @@ function Table() {
             />
           </div>
       </div>
-      <button className=' text-white btn btn-success mb-3'>Buscar</button>
+      <div className='text-center'>
+        <button className=' text-white btn btn-success m-2' onClick={handleSubmit}>Buscar</button>
+        <button className=' text-white btn btn-success m-2'onClick={showEverything}>Mostrar Todo</button>
+      </div>
+      
     </form>
     </div>
-    <table className='table table-dark table-bordered'>
-      <thead>
-          <tr>
-              <th scope='col'>Área</th>
-              <th scope='col'>Manzano</th>
-              <th scope='col'>Lote</th>
-              <th scope='col'>Link</th>
-          </tr>                    
-      </thead>
-      <tbody>
-          {
-           auxPlanes.map( (plan,index)=>{
-              return(
-                  <tr className='text-center' key={index}>
-                      <th>
-                          <span>{plan.zona}</span>
-                      </th>
-                      <th>
-                          <span>{plan.manzano}</span>
-                      </th>
-                      <th>
-                          <span>{plan.lote}</span>
-                      </th>
-                      <th>
-                          <span ><a href={plan.url}>Click</a></span>
-                      </th>
-                  </tr>
-              )
-           } )   
-          }
-      </tbody>
-    </table>
+    <div className='px-4'>
+      <table className='table table-dark table-bordered'>
+        <thead>
+            <tr>
+                <th scope='col' className='text-center' >Área</th>
+                <th scope='col' className='text-center' >Manzano</th>
+                <th scope='col' className='text-center' >Lote</th>
+                <th scope='col' className='text-center' >Link</th>
+            </tr>                    
+        </thead>
+        <tbody>
+            {
+             auxPlanes.map( (plan,index)=>{
+                return(
+                    <tr className='text-center' key={index}>
+                        <th>
+                            <span>{plan.zona}</span>
+                        </th>
+                        <th>
+                            <span>{plan.manzano}</span>
+                        </th>
+                        <th>
+                            <span>{plan.lote}</span>
+                        </th>
+                        <th>
+                            <span ><a href={plan.url}>Click</a></span>
+                        </th>
+                    </tr>
+                )
+             } )   
+            }
+        </tbody>
+      </table>
+    </div>
   </div>
   )
 }
